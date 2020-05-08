@@ -1,0 +1,9 @@
+[redis]
+addr = "127.0.0.1:6379"
+pwd = "zx19950124"
+db = 0
+
+[mysql]
+addr = "127.0.0.1:3306"
+username = "zhangyi"
+password = "zx19950124"
